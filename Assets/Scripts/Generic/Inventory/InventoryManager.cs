@@ -147,6 +147,14 @@ public class InventoryManager : MonoBehaviour
         playerInventory.AddItem(new CraftingMaterial("Iron Ingot", 101));           //ID 101 : Ã¶ ÁÖ±«
         playerInventory.AddItem(new CraftingMaterial("Wood", 102));                 //ID 102 : ³ª¹«
 
+        playerInventory.AddItem(new CraftingMaterial("Iron Ingot", 101));           //ID 101 : Ã¶ ÁÖ±«
+        playerInventory.AddItem(new CraftingMaterial("Iron Ingot", 101));           //ID 101 : Ã¶ ÁÖ±«
+        playerInventory.AddItem(new CraftingMaterial("Wood", 102));                 //ID 102 : ³ª¹«
+
+        playerInventory.AddItem(new CraftingMaterial("Iron Ingot", 101));           //ID 101 : Ã¶ ÁÖ±«
+        playerInventory.AddItem(new CraftingMaterial("Iron Ingot", 101));           //ID 101 : Ã¶ ÁÖ±«
+        playerInventory.AddItem(new CraftingMaterial("Wood", 102));                 //ID 102 : ³ª¹«
+
         playerInventory.AddItem(new CraftingMaterial("Herb", 102));                 //ID 201 : ¾àÃÊ
         playerInventory.AddItem(new CraftingMaterial("Herb", 102));                 //ID 201 : ¾àÃÊ
         playerInventory.AddItem(new CraftingMaterial("Water", 202));                 //ID 202 : ¹°
